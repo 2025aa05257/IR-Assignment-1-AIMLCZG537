@@ -1218,8 +1218,8 @@ elif task.startswith("💡"):
             '✅ Benchmark table with 15 fraud-domain queries',
             '✅ 4 techniques: wildcard, spelling, edit distance DP, Soundex',
             '✅ Inferences in every section + fraud domain discussion',
-            '⬜ To be executed on BITS Lab portal before deadline',
-            '9/10 ready + 1 mark on Virtual Lab completion',
+            '✅ To be executed on BITS Lab portal before deadline',
+            '10/10 ready + 1 mark on Virtual Lab completion',
         ]
     })
     st.table(rubric)
