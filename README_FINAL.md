@@ -1,11 +1,11 @@
-# BITS Pilani – Information Retrieval (AIMLCZG537 / DSECLZG537)
+# BITS Pilani – Information Retrieval (AIMLCZG537)
 ## Assignment 1 — End-to-End IR System
 
 **GitHub:** https://github.com/2025aa05257/IR-Assignment-1-AIMLCZG537
 
 | Field | Details |
 |-------|---------|
-| Course | Information Retrieval (AIMLCZG537 / DSECLZG537) |
+| Course | Information Retrieval (AIMLCZG537) |
 | Semester | S2 2025-26 |
 | Instructor | Dr. Reddy Rani V, BITS Pilani |
 | Max Marks | 10 |
