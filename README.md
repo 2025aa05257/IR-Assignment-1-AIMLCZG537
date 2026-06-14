@@ -1,6 +1,6 @@
 # BITS Pilani – Information Retrieval (AIMLCZG537)
 ## Assignment 1 — End-to-End IR System
-
+**Streamlit URL:** https://ir-assignment-1-aimlczg537-group46.streamlit.app/
 **GitHub:** https://github.com/2025aa05257/IR-Assignment-1-AIMLCZG537
 
 | Field | Details |
