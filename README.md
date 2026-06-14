@@ -125,5 +125,5 @@ App opens at **http://localhost:8501**
 | BST and B-Tree comparison | 1.5 | ✅ Done |
 | Tolerant retrieval | 1.5 | ✅ Done |
 | Experimental evidence & inferences | 1.0 | ✅ Done |
-| Virtual lab usage | 1.0 | ⬜ Run on BITS Lab portal |
-| **Total** | **10** | **9/10 ready** |
+| Virtual lab usage | 1.0 | ✅ Run on BITS Lab portal |
+| **Total** | **10** | **10/10 ready** |
