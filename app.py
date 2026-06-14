@@ -1224,13 +1224,3 @@ elif task.startswith("💡"):
     })
     st.table(rubric)
 
-    st.markdown("""<div class="section-card">
-    <b>📌 Submission Checklist</b><br>
-    ✅ app.py — Streamlit application (self-contained, uses bank_fraud.csv)<br>
-    ✅ bank_fraud.csv — Dataset (place in same folder as app.py OR upload via sidebar)<br>
-    ✅ about_dataset.txt — Dataset description<br>
-    ✅ IR_Assignment1_Report.docx — Technical report<br>
-    ✅ README.md — Installation and run instructions<br>
-    ⬜ Screenshots — Capture all 5 modules on BITS Lab portal<br>
-    ⬜ Submit before <b>15th June 23:59 IST</b>
-    </div>""", unsafe_allow_html=True)
